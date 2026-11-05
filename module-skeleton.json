@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-display-modes-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-display-modes",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-display-modes-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/display-modes.md",
+  "presentationPlan": "projects/cms/nextjs/display-modes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
